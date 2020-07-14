@@ -1,0 +1,6 @@
+$(document).on("click","salvar",function(){
+  var parametros = {
+    
+  }
+});
+

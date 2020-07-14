@@ -1,0 +1,16 @@
+/**/
+.botao{
+  font-size: 12px; 
+}
+body{
+  background-color: black;
+}
+.excluir{
+background-color: blue;
+margin-top: 0%;
+margin-right: 0%;
+margin-left: 23%;
+}
+.textn{
+  color: white;
+}
